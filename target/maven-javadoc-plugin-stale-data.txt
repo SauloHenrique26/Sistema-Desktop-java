@@ -1,0 +1,20 @@
+cmd.exe
+/X
+/C
+""C:\Program Files\Java\jdk1.8.0_251\jre\..\bin\javadoc.exe" @options @argfile"
+C:\Users\Saulo Brito\Downloads\SmartStorage\target\apidocs\allclasses-frame.html = 1590874947439
+C:\Users\Saulo Brito\Downloads\SmartStorage\target\apidocs\allclasses-noframe.html = 1590874947454
+C:\Users\Saulo Brito\Downloads\SmartStorage\target\apidocs\argfile = 1590874945886
+C:\Users\Saulo Brito\Downloads\SmartStorage\target\apidocs\constant-values.html = 1590874947060
+C:\Users\Saulo Brito\Downloads\SmartStorage\target\apidocs\deprecated-list.html = 1590874947423
+C:\Users\Saulo Brito\Downloads\SmartStorage\target\apidocs\help-doc.html = 1590874947492
+C:\Users\Saulo Brito\Downloads\SmartStorage\target\apidocs\index-all.html = 1590874947407
+C:\Users\Saulo Brito\Downloads\SmartStorage\target\apidocs\index.html = 1590874947461
+C:\Users\Saulo Brito\Downloads\SmartStorage\target\apidocs\options = 1590874945886
+C:\Users\Saulo Brito\Downloads\SmartStorage\target\apidocs\overview-frame.html = 1590874946937
+C:\Users\Saulo Brito\Downloads\SmartStorage\target\apidocs\overview-summary.html = 1590874947476
+C:\Users\Saulo Brito\Downloads\SmartStorage\target\apidocs\overview-tree.html = 1590874947376
+C:\Users\Saulo Brito\Downloads\SmartStorage\target\apidocs\package-list = 1590874946922
+C:\Users\Saulo Brito\Downloads\SmartStorage\target\apidocs\script.js = 1590874947508
+C:\Users\Saulo Brito\Downloads\SmartStorage\target\apidocs\serialized-form.html = 1590874947091
+C:\Users\Saulo Brito\Downloads\SmartStorage\target\apidocs\stylesheet.css = 1590874947508
